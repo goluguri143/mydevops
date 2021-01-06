@@ -1,0 +1,17 @@
+---
+- mystudentDetails: 
+  - name: jagadeesh
+    phoneno: 9291660143 
+    email: jaga@gmail.com
+    address: andhrapradesh
+    doorno: 8-84
+    pincode: 555555
+
+  - name: hari
+    phoneno: 123456
+    email: jagadeesh@gmail.com
+    address: us
+
+  - jagadeesh
+  - harsha
+  - rakesh
